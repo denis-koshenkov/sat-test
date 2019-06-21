@@ -1,6 +1,7 @@
 # sat-test
 This project investigates the relationship between average SAT score by school and various factors (including demographic ones) in New York City public schools.
-## Description of used datasets:
+## Datasets:
+The original datasets can be found in the 'Datasets' folder.
 - 'sat_results.csv' - SAT scores for each high school in New York City
 - 'hs_directory.csv' - A directory of NYC high schools
 - 'class_size.csv' - Information on class size for each school
